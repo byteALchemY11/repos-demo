@@ -1,2 +1,2 @@
 # repos-demo
-my first github repository
+my first git repository
