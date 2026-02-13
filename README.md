@@ -1,4 +1,4 @@
 # repos-demo
 my first git repository
 <br>
-writer name-Anchal Tiwari
+author name-Anchal Tiwari
